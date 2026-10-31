@@ -163,7 +163,7 @@ export default function App() {
     );
     const downloadAnchor = document.createElement("a");
     downloadAnchor.setAttribute("href", dataStr);
-    downloadAnchor.setAttribute("download", `attribution_backup_${new Date().toISOString().split("T")[0]}.json`);
+    downloadAnchor.setAttribute("download", `Lightweight-CRM-Shopify-Marketing-Attribution-Template-backup-${new Date().toISOString().split("T")[0]}.json`);
     document.body.appendChild(downloadAnchor);
     downloadAnchor.click();
     downloadAnchor.remove();
@@ -206,10 +206,13 @@ export default function App() {
         <div className="max-w-[1400px] h-full mx-auto px-10 flex items-center justify-between">
           
           {/* Brand Identity */}
-          <div className="flex items-center gap-2">
-            <Layers className="text-[#2251FF]" size={20} />
-            <span className="font-heading text-lg font-bold text-[#051C2C] tracking-tight">
-              Lightweight-CRM-Shopify-Marketing-Attribution-Template
+          <div className="flex items-center gap-2.5">
+            <Layers className="text-[#2251FF] shrink-0" size={18} />
+            <span className="font-heading text-lg font-bold text-[#051C2C] tracking-tight whitespace-nowrap">
+              Theseus Workshop
+            </span>
+            <span className="text-[12px] text-[#888888] font-normal tracking-normal border-l border-[#E8E8E6] pl-2.5 hidden sm:inline-block">
+              crm-shopify-marketing-attribution-excel
             </span>
           </div>
 
@@ -357,7 +360,7 @@ export default function App() {
 
       {/* Elegant minimalist footer */}
       <footer className="py-6 mt-12 border-t border-[#E8E8E6] text-center text-[12px] text-[#888888]">
-        Operational Attribution Layer Applet. Built with Institutional Minimalism × Apple HIG. All rights reserved.
+        All data in this tool is stored in your browser's localStorage. The page itself does not retain any user data.
       </footer>
     </div>
   );

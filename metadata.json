@@ -1,6 +1,6 @@
 {
   "name": "Lightweight-CRM-Shopify-Marketing-Attribution-Template",
-  "description": "A light-first, highly polished SaaS operational dashboard linking Shopify orders to lead sources and CRM stages with real-time attribution analytics.",
+  "description": "Theseus Workshop - crm-shopify-marketing-attribution-excel: A lightweight CRM, Shopify sales ledger, and multi-touch marketing attribution template.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
