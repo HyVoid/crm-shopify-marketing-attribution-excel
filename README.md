@@ -323,11 +323,12 @@ This CRM-to-Shopify attribution workbook packages enterprise-grade revenue recon
 
 ## Other Operational & Marketing Analytics Tools in This Series
 
-* **Marketing Budget Allocation Simulator** — Model diminishing returns and optimize multi-channel ad spend under uncertainty.
-* **Google Ads & GA4 Funnel Audit Console** — Diagnose paid search conversion drop-offs, tracking gaps, and wasted ad spend.
-* **Ecommerce Inventory Planning & Replenishment Engine** — Calculate safety stock, reorder points, and cash-flow risk across SKUs.
-* **Logistics & Supply Chain Operations Control Tower** — Monitor freight lead times, carrier performance, and shipment exceptions.
-* **Multifamily Real Estate Acquisition Financial Model** — Underwrite commercial property cash flows, cap rates, and investor returns.
+* **[Marketing-Audit-Decision-Console](https://github.com/HyVoid/Marketing-Audit-Decision-Console)** — What should we fix first in marketing performance? — Audit marketing channel performance by reconciling ad spend data with actual revenue attribution.
+* **[Marketing-Budget-Allocation-Simulator](https://github.com/HyVoid/Marketing-Budget-Allocation-Simulator)** — Where should the next dollar of marketing spend go? — Allocate marketing budget across channels using portfolio theory and return simulation.
+* **[Paid-Media-Data-Hub](https://github.com/HyVoid/Paid-Media-Data-Hub)** — How do we turn paid media exports into usable performance data? — Transform paid media data exports into standardized decision-ready performance reports.
+* **[tiktok-marketing-roi-calculator](https://github.com/HyVoid/tiktok-marketing-roi-calculator)** — Which monthly agency actions are justified by performance evidence? — Standardize agency performance reporting and benchmark TikTok campaign results against strategic objectives.
+* **[Membership-Engagement-Analytics-Workspace](https://github.com/HyVoid/Membership-Engagement-Analytics-Workspace)** — Which members are engaged slipping or ready for intervention? — Identify member churn risk and engagement trends across lifetime participation history.
+* **[igaming-affiliate-ftd-analyzer-excel](https://github.com/HyVoid/igaming-affiliate-ftd-analyzer-excel)** — Which affiliate and media-buying traffic sources deserve more budget, holding, cutting, or review based on early depositor cohort performance? — Evaluate early player cohorts against cost-per-first-time-depositor thresholds to drive scale, keep, stop, or review budget decisions.
 
 ---
 
