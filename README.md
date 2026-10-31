@@ -118,10 +118,6 @@ Once your lead log, CRM quotes, and Shopify payments are linked in one table, th
 
 ## Technical Details & Workbook Architecture
 
-<details>
-<summary><strong>Click to expand: For Data Analysts, RevOps Engineers, and Excel Practitioners (Formulas, Schema & Validation Rules)</strong></summary>
-
----
 
 ### Relational Workbook Architecture
 
