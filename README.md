@@ -30,6 +30,14 @@ Struggling with broken UTM parameters, expired tracking cookies, and disconnecte
 | **GA4 Last-Click Bias Undervaluing Top-of-Funnel Ads** | Google Analytics 4 credits "Direct" or branded search when buyers return weeks later to pay an invoice. | Calculates side-by-side revenue credit across both initial discovery and final conversion touchpoints. | **First-Touch Attribution Revenue** vs. **Last-Touch Revenue** |
 | **90+ Day B2B Sales Cycles Breaking Ad Pixels** | Browser cookies expire in 7 to 30 days (ITP/ad blockers), erasing historical campaign credit. | Stores historical acquisition timestamps permanently in Excel, immune to cookie expiration windows. | **Long-Cycle Cohort ROI** & **Customer Lifetime Value (LTV)** |
 
+## Spreadsheet Preview
+
+Want to take a closer look before downloading? You can preview the spreadsheet in Google Sheets to explore its layout, structure, and calculation logic.
+
+**[View Spreadsheet Preview on Google Sheets](https://docs.google.com/spreadsheets/d/1G-kV7i5hgy70sn1WgR6nDHlCChZSf8sv/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note on Compatibility:** The Google Sheets preview may display occasional `#NAME?` errors or formula warnings due to differences between Google Sheets and Microsoft Excel formula compatibility. These are preview-only compatibility issues and do not affect the functionality of the original Excel workbook. For the intended formula behavior and full functionality, please download and open the `.xlsx` file in Microsoft Excel.
+
 ---
 
 ## How to Track Customer Journeys from B2B Lead to Shopify Checkout in Long Sales Cycles
