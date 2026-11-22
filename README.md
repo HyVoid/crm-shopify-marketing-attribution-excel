@@ -17,6 +17,18 @@ Test your own CSV data instantly in the free web tool below. When you are ready 
 >
 > 📥 **Get the Permanent Workbook:** [Download the Full CRM-to-Shopify Marketing Attribution Excel Template (.xlsx for Monthly ROAS & CAC Reporting)](https://www.theseusworkshop.com/l/dsgleu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=crm-shopify-attribution)
 
+
+## Questions, Feedback & Product Updates
+
+This toolkit connects CRM pipeline activity with Shopify revenue to make offline-to-online attribution easier to inspect. If you have explored the Issues or Pull Requests area, this section clarifies where to take the next step: use Issues for a reproducible defect, and Discussions for questions or product ideas.
+
+- **Questions & workflow fit:** [Ask about CRM imports, Shopify order matching, UTM attribution, or ROAS / CAC interpretation](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Ideas & improvements:** [Suggest another attribution workflow, matching rule, channel view, or reporting output](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Report a technical problem:** [Open the CRM-to-Shopify attribution issue form](https://github.com/HyVoid/crm-shopify-marketing-attribution-excel/issues/new?template=bug-report.yml).
+- **Product updates:** [Follow maintenance and improvement notes](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+For matching or attribution questions, identify the source systems, identifier type, and affected metric. Never post customer email addresses, names, order records, raw CRM exports, ad account credentials, or unredacted campaign data. Synthetic examples are sufficient.
+
 ---
 
 ## What It Helps You Track: E-Commerce Attribution Pain Points & Spreadsheet Solutions
