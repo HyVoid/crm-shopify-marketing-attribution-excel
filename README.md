@@ -17,6 +17,15 @@ Test your own CSV data instantly in the free web tool below. When you are ready 
 >
 > 📥 **Get the Permanent Workbook:** [Download the Full CRM-to-Shopify Marketing Attribution Excel Template (.xlsx for Monthly ROAS & CAC Reporting)](https://www.theseusworkshop.com/l/dsgleu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=crm-shopify-attribution)
 
+## Privacy & Data Handling Notice
+
+The free browser calculator accepts CSV uploads or pasted data. **This README does not establish whether that data is processed only in your browser, transmitted to a server, or retained.** Do not use real production exports until you have reviewed the web tool's current privacy and data-handling information and confirmed that its use is approved by your organization.
+
+For testing and public support requests:
+
+- Use synthetic data wherever possible. If you use de-identified samples, remove direct and indirect identifiers, including customer names, email addresses, phone numbers, postal addresses, order IDs, CRM record IDs, and any fields that could be combined to identify a person or account.
+- Do not submit raw CRM or Shopify exports, customer-level transaction details, login credentials, or confidential campaign and commercial data to public GitHub Issues or Discussions.
+- To reproduce a problem, share the column names, a few fabricated example rows, approximate row counts, the error message, and the expected versus actual result. Make sure examples cannot be linked back to real customers or accounts.
 
 ## Questions, Feedback & Product Updates
 
@@ -94,7 +103,7 @@ Follow this operational workflow to reconcile disconnected marketing, sales, and
 1. **Export Your Initial Lead Capture CSV (Marketing Acquisition Data):** Download your raw lead generation log (`Customer Email`, `Created Date`, `First-Touch UTM Source / Ad Campaign`) from Google Ads, Meta Lead Forms, Typeform, or your landing page builder.
 2. **Extract Your CRM Deal Pipeline Export (Offline Sales Progression):** Export active and historical deal records from **HubSpot, Salesforce, Pipedrive, or Zoho CRM** to map offline quoting, sample shipping, and sales stage velocity.
 3. **Download Raw Shopify Orders CSV (Ecommerce Checkout Revenue):** Export your transactional order history from **Shopify or Shopify Plus**, ensuring customer billing emails, net sales amounts, and payment statuses (`Paid` / `Refunded`) are included.
-4. **Run Instant Email Identity Resolution (Free Browser Trial):** Upload or paste your three CSV extracts into the [**Free Browser-Based CRM-to-Shopify Attribution Calculator (No Signup Required)**](https://hyvoid.github.io/crm-shopify-marketing-attribution-excel/) to immediately match customer emails across silos and preview your true channel ROI.
+4. **Run Instant Email Identity Resolution (Free Browser Trial):** Use synthetic or de-identified sample CSVs in the [**Free Browser-Based CRM-to-Shopify Attribution Calculator (No Signup Required)**](https://hyvoid.github.io/crm-shopify-marketing-attribution-excel/) to match customer emails across sample datasets and preview the channel ROI workflow. Do not upload real production exports unless you have reviewed and approved the tool's current privacy and data-handling practices; see the [Privacy & Data Handling Notice](#privacy--data-handling-notice) above.
 5. **Automate Monthly Reporting with the Reusable Excel Workbook:** Done with your one-time browser test and need a permanent offline system for monthly financial reviews? 📥 [**Download the Reusable CRM-to-Shopify Marketing Attribution Excel Template (.xlsx with Automated XLOOKUP & ROAS Dashboards)**](https://www.theseusworkshop.com/l/dsgleu?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=crm-shopify-marketing-attribution) to save your custom channel mappings, track cohort LTV over 90+ day sales cycles, and reuse the pre-built formulas every month without re-configuring your data.
 
 ---
